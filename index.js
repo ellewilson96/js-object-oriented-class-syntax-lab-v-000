@@ -33,7 +33,7 @@ class Ceo {
     this.training = training;
     }
 
-  let Ceo extends BoardMember
+  Ceo extends BoardMember
 
   hireEmployee() {
     return "Welcome aboard!"
